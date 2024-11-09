@@ -38,7 +38,7 @@ Este script é fornecido apenas para fins educacionais. Use com responsabilidade
 
 ## 💻 CR3D1TS
 ```js
-// C0D3D BY: XPL01T_M4ST3R_2024
+// C0D3D BY: LouysATX
 // V3RS10N: 1.3.3.7
 // M0D3: ULTR4_1NST1NCT
 ```
