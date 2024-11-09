@@ -2,6 +2,7 @@
 
 
 By LouysATX
+
 4LUR4_XPL01T_PRO é uma extensão que **H4CK3A** automaticamente as atividades da Alura com **ULTRA INSTINCT MODE** em menos de **1 segundo**! Projetado para transformar seu aprendizado em modo **SPEEDRUN** 🏃‍♂️, ideal para quem quer desbloquear conhecimento em velocidade máxima!
 
 ## 🎯 H4CK1NG_F34TUR3S
