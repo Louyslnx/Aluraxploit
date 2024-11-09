@@ -56,13 +56,8 @@ By LouysATX
    - **Ordenação**: Resolve questões de arrastar e ordenar
    - **Retry**: Se errar, tenta novamente automaticamente
 
-3. **VISUAL FEEDBACK**:
-   - ✅ Verde: Questão resolvida
-   - 🎥 Azul: Vídeo processado
-   - ⚠️ Amarelo: Tentando novamente
-   - ➡️ Branco: Avançando
 
-4. **DESATIVAR TEMPORARIAMENTE**:
+3. **DESATIVAR TEMPORARIAMENTE**:
    - Clique no ícone da extensão
    - Ou desative em `chrome://extensions`
 
